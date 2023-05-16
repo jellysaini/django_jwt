@@ -17,7 +17,7 @@ This project is helpful in case where you want to implement the JWT(JSON Web Tok
 ### `python manage.py runserver`
 
 
-### To run run the swagger go to
+### To run the swagger go to
 ### `http://localhost:8000/api/swagger/`
 
 
